@@ -18,8 +18,7 @@ gcc ex_4.c -lm -std=c99 -DNDEBUG
 ```
 ### Running Example:
 
-![Alt Text](<img width="665" alt="258393812-4d10c10e-c359-4cf3-877e-be39f4593f47" src="https://github.com/Ofirroth/introCS-TIC_Tac_Toe/assets/118715083/e4c76e8a-652f-4cb9-bd75-ca16046c6e1e">
-)
+![Alt Text](https://github.com/Ofirroth/introCS-TIC_Tac_Toe/blob/cb594981f29f6828910fced2520567ab21f668cc/258393812-4d10c10e-c359-4cf3-877e-be39f4593f47.png)
 ![Alt Text](<img width="342" alt="258393974-a5b5e556-bcec-4e4a-acbe-d5c647377c5f" src="https://github.com/Ofirroth/introCS-TIC_Tac_Toe/assets/118715083/9d8a080f-aa5a-4f6b-822a-7b4647606b42">
 )
 
